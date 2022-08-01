@@ -1,7 +1,7 @@
 ### Hi there 👋 I´m Guilherme
 This is my profile
 
-- 🌱 I’m currently studying Computer science 1/8
+- 🌱 I’m currently studying Computer science 2/8
 - 📚 I’m currently learning JavaScript, HTML, CSS and MySql
 
 <div align="center">
