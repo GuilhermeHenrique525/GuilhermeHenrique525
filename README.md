@@ -1,8 +1,8 @@
 ### Hi there 👋 I´m Guilherme
 This is my profile
 
-- 🌱 I’m currently studying Computer science 2/8
-- 📚 I’m currently learning JavaScript, HTML, CSS and MySql
+- 🌱 I’m currently studying Computer science 7/8
+- 📚 I’m currently learning linear regression, data analysis, data processing
 
 <div align="center">
   <a href="https://github.com/GuilhermeHenrique525">
